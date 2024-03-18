@@ -37,4 +37,3 @@ variable "subnetAZ2_private_data_cidr" {
 variable "create_NATgws" {
   default = 1
 }
-
